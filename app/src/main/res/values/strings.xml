@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EnfocaT</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="register_text">¿No tienes cuenta? Regístrate</string>
+    <string name="home_greeting">¡Hola de nuevo, Estudiante!</string>
+    <string name="pending_tasks">Tareas Pendientes</string>
+    <string name="weekly_progress">Progreso Semanal</string>
+    <string name="upcoming_deliveries">Próximas Entregas</string>
+    <string name="start_study">Iniciar Sesión de Estudio</string>
+    <string name="navigation_home">Inicio</string>
+    <string name="navigation_tasks">Tareas</string>
+    <string name="navigation_calendar">Calendario</string>
+    <string name="email_empty_error">Por favor ingresa tu correo electrónico</string>
+    <string name="password_empty_error">Por favor ingresa tu contraseña</string>
+    <string name="login_error">Por favor completa todos los campos</string>
+    <string name="forgot_password_message">Se ha enviado un correo para restablecer tu contraseña.</string>
+    <string name="register_message">Función de registro próximamente.</string>
+    <string name="study_session_started">¡Sesión de estudio iniciada con éxito!</string>
+    <string name="task_created">Crear nueva tarea</string>
+    <string name="task_details">Detalles de la tarea</string>
+    <string name="subject_math">Matemáticas Aplicadas</string>
+    <string name="subject_physics">Física General</string>
+    <string name="subject_programming">Estructuras de Datos</string>
+    <string name="task_calculus_quiz">Quiz de Cálculo</string>
+    <string name="task_physics_lab">Reporte de Laboratorio</string>
+    <string name="task_binary_tree">Implementación de Árboles</string>
+    <string name="due_date_tomorrow">Mañana, 23:59</string>
+    <string name="due_date_friday">Viernes, 18:00</string>
+    <string name="due_date_monday">Próximo Lunes</string>
+</resources>
